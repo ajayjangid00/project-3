@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+.card-header h1{
+    font-family: 'Courgette', cursive;
+    text-align: center;
+   
+}
+.login img{
+    margin-left: 90px;
+    margin-top: 60px;
+}
+h3{
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 9px;
+   border-top: 1px solid black;
+}
+h3 span{
+   
+   margin-top: 24%;
+}
+
+.login form input{
+    width: 100%;
+    margin-top: 20px;
+    font-size: 12PX;
+    
+    
+}
+.myform{
+    outline: none;
+    height: 25px;
+}
+.p1{
+    text-align: center;
+    margin-top: 10px;
+}
+.p1 a{
+    color: black;
+    font-size: 15px;
+}
+.p2{
+    text-align: center;
+    margin-top: 10px;
+}
+.p2 a{
+    color: black;
+    font-size: 10px;
+   
+}
+.p3{
+    text-align: center;
+    margin-top: -10px;
+    font-size: 14px;
+}
+
+.mycard{
+    position: relative;
+    left: 40%;
+    top: 10%;
+    width: 90%;
+    height: 100%;
+}
+.login .signup{
+    position: relative;
+    left: 40%;
+    top: -30%;
+    width: 90%;
+    height: 10%;
+}
+.login button{
+    width: 100%;
+    margin-top: 20PX;
+    margin-bottom: 20PX;
+    border-radius: 10px;
+    background-color: rgb(6, 159, 255);
+    border: none;
+    color: white;
+}
+.login .card-footer{
+    height: 30%;
+    background-color: white;
+    border: none;
+}
+.login .card{
+    height: 60%;
+    background-color: white;
+}
+.getimg{
+    position: relative;
+    top: 6px;
+    width: 90%;
+    font-size: 12px;
+    height: 80px;
+  
+}
+
+
+/*   account   */
+.card-header{
+    background-color: white;
+}
+h5{
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 29px;
+   border-top: 1px solid black;
+}
+span{
+    position: absolute;
+   top: 183px;
+   font-size: 12px;
+  left: 45%;
+  padding: 0px 5px 0px 5px;
+   background-color: white;
+}
+.account .card-body{
+    height: 50%;
+}
+
+.account form input{
+    width: 100%;
+font-size: 13px;
+outline: none;
+padding-left: 10px;
+    height: 30px;
+    border: 1px solid gainsboro;
+}
+.p4{
+width: 90%;
+text-align: center;
+font-size: 11px;
+}
+.account .card-footer {
+    background-color: white;
+}
+.account .card-footer button{
+    width: 100%;
+    border-radius: 10px;
+    background-color: rgb(6, 159, 255);
+    border: none;
+    color: white;
+}
+.account .card{
+    top: 10px;
+    left: 110%;
+    height: 82%;
+    width: 90%;
+}
+.p5{
+    text-align: center;
+    
+}
+.getapp{
+    position: relative;
+    left: 110%;
+    top: 6px;
+    width: 90%;
+    font-size: 12px;
+    height: 80px;
+}
+
+/*  */
+.forget .card{
+   position: relative;
+   left: 120%;
+   top: 20%;
+}
+.forget .card .card-header p{
+   font-size: 14px;
+}
+.forget .card .card-header a{
+    font-size: 12px;
+    margin-top: 10px;
+ }
+ h4{
+
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 15px;
+   border-top: 1px solid black;
+}
+h4 span{
+   
+   margin-top: 48%;
+}
+.forget .card .card-body a{
+    font-size: 12px;
+    margin-top: 10px;
+   color: black;
+ }
+ .forget .card .card-footer a{
+    font-size: 12px;
+    margin-top: 10px;
+   color: black;
+   font-weight: bold;
+ }
